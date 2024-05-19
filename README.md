@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidpcalgan
-- 👀 I’m interested in computer graphics and ontologies
+- 👀 I’m interested in computer graphics and theoretical computer science
 - 📫 How to reach me: davidpcalgan96@gmail.com
 - 😄 Pronouns: he/him
 
